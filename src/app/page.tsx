@@ -132,7 +132,7 @@ export default function Home() {
           <a href="#prizes" onClick={() => setIsMenuOpen(false)} 
              className="menu-link text-2xl md:text-3xl font-medium hover:text-[#DA291C] transition-colors">PRIZES</a>
           <a href="#faqs" onClick={() => setIsMenuOpen(false)} 
-             className="menu-link text-2xl md:text-3xl font-medium hover:text-[#DA291C] transition-colors">FAQ's</a>
+             className="menu-link text-2xl md:text-3xl font-medium hover:text-[#DA291C] transition-colors">FAQ&apos;s</a>
           <a href="#register" onClick={() => setIsMenuOpen(false)} 
              className="menu-link text-2xl md:text-3xl font-medium px-8 py-2 border-2 border-white hover:bg-[#DA291C] hover:border-[#DA291C] transition-all mt-4">
             REGISTER
